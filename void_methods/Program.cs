@@ -35,7 +35,7 @@ namespace void_methods
         
         }
             
-        static void PrintToScreen()
+      static void PrintToScreen()
         {
             //void method
             Console.WriteLine("Hello There");
